@@ -1,0 +1,49 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "MicroByter Studios",
+    "longName": "Eclipsed",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/eclipse6bw.png",
+                "name": "bg_image",
+                "type": "png"
+            },
+            {
+                "file": "fonts/mermaid.ttf",
+                "name": "mermaid_18",
+                "type": "font"
+            },
+            {
+                "file": "fonts/mermaid.ttf",
+                "name": "mermaid_14",
+                "type": "font"
+            },
+            {
+                "file": "fonts/mermaid.ttf",
+                "name": "mermaid_10",
+                "type": "font"
+            },
+            {
+                "file": "fonts/mermaid.ttf",
+                "name": "mermaid_08",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Eclipsed",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "068d702d-ea69-42ea-bdba-a69dbbe12976",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}

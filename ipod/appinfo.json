@@ -1,0 +1,29 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "MicroByter Studios",
+    "longName": "iPod",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/white_bw.png",
+                "name": "bg_image",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "iPod",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "068d702d-ea69-42ea-bdba-a69dbbe83923",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}

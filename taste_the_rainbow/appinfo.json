@@ -1,0 +1,33 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "MicroByter Studios",
+    "longName": "Taste The Rainbow",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/Chlorinp.ttf",
+                "name": "mario_24",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Chlorinp.ttf",
+                "name": "mario_36",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Taste The Rainbow",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "4bf91ca6-d63a-435f-8031-701017d5048c",
+    "versionLabel": "1.1",
+    "watchapp": {
+        "watchface": true
+    }
+}

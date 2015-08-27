@@ -1,0 +1,179 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "MicroByter Studios",
+    "longName": "G&W Fire",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/Pokemon GB.ttf",
+                "name": "poke_12",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Pokemon GB.ttf",
+                "name": "poke_24",
+                "type": "font"
+            },
+            {
+                "file": "images/70%.png",
+                "name": "batt70",
+                "type": "png"
+            },
+            {
+                "file": "images/40.png",
+                "name": "batt40",
+                "type": "png"
+            },
+            {
+                "file": "images/10.png",
+                "name": "batt10",
+                "type": "png"
+            },
+            {
+                "file": "images/100%.png",
+                "name": "batt100",
+                "type": "png"
+            },
+            {
+                "file": "images/top_bw.png",
+                "name": "gw_top",
+                "type": "png"
+            },
+            {
+                "file": "images/bottom_bw.png",
+                "name": "gw_bottom",
+                "type": "png"
+            },
+            {
+                "file": "images/(28).png",
+                "name": "h28",
+                "type": "png"
+            },
+            {
+                "file": "images/(27).png",
+                "name": "h27",
+                "type": "png"
+            },
+            {
+                "file": "images/(26).png",
+                "name": "h26",
+                "type": "png"
+            },
+            {
+                "file": "images/(25).png",
+                "name": "h25",
+                "type": "png"
+            },
+            {
+                "file": "images/(24).png",
+                "name": "h24",
+                "type": "png"
+            },
+            {
+                "file": "images/(23).png",
+                "name": "h23",
+                "type": "png"
+            },
+            {
+                "file": "images/(22).png",
+                "name": "h22",
+                "type": "png"
+            },
+            {
+                "file": "images/(21).png",
+                "name": "h21",
+                "type": "png"
+            },
+            {
+                "file": "images/(20).png",
+                "name": "h20",
+                "type": "png"
+            },
+            {
+                "file": "images/(18).png",
+                "name": "h18",
+                "type": "png"
+            },
+            {
+                "file": "images/(17).png",
+                "name": "h17",
+                "type": "png"
+            },
+            {
+                "file": "images/(16).png",
+                "name": "h16",
+                "type": "png"
+            },
+            {
+                "file": "images/(15).png",
+                "name": "h15",
+                "type": "png"
+            },
+            {
+                "file": "images/(14).png",
+                "name": "h14",
+                "type": "png"
+            },
+            {
+                "file": "images/(12).png",
+                "name": "h12",
+                "type": "png"
+            },
+            {
+                "file": "images/(11).png",
+                "name": "h11",
+                "type": "png"
+            },
+            {
+                "file": "images/(10).png",
+                "name": "h10",
+                "type": "png"
+            },
+            {
+                "file": "images/(8).png",
+                "name": "h08",
+                "type": "png"
+            },
+            {
+                "file": "images/(7).png",
+                "name": "h07",
+                "type": "png"
+            },
+            {
+                "file": "images/(6).png",
+                "name": "h06",
+                "type": "png"
+            },
+            {
+                "file": "images/(5).png",
+                "name": "h05",
+                "type": "png"
+            },
+            {
+                "file": "images/(4).png",
+                "name": "h04",
+                "type": "png"
+            },
+            {
+                "file": "images/(2).png",
+                "name": "h02",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "G&W Fire",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "1a9d0bee-691a-4dab-9271-32180d4ddd90",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "john.haasl@gmail.com",
+    "longName": "Miyamoto Digital",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Miyamoto Digital",
+    "uuid": "0e39cc94-748e-4747-82db-bd319fc46a39",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}

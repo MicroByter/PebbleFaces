@@ -1,0 +1,104 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "MicroByter Studios",
+    "longName": "Duck Hunt",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/duck_blank.png",
+                "name": "dblank",
+                "type": "png"
+            },
+            {
+                "file": "images/duck_up3.png",
+                "name": "du3",
+                "type": "png"
+            },
+            {
+                "file": "images/duck_up2.png",
+                "name": "du2",
+                "type": "png"
+            },
+            {
+                "file": "images/duck_up1.png",
+                "name": "du1",
+                "type": "png"
+            },
+            {
+                "file": "images/duck_right3.png",
+                "name": "dr3",
+                "type": "png"
+            },
+            {
+                "file": "images/duck_right2.png",
+                "name": "dr2",
+                "type": "png"
+            },
+            {
+                "file": "images/duck_right1.png",
+                "name": "dr1",
+                "type": "png"
+            },
+            {
+                "file": "images/duck_left3.png",
+                "name": "dl3",
+                "type": "png"
+            },
+            {
+                "file": "images/duck_left2.png",
+                "name": "dl2",
+                "type": "png"
+            },
+            {
+                "file": "images/duck_left1.png",
+                "name": "dl1",
+                "type": "png"
+            },
+            {
+                "file": "images/doglaugh2.png",
+                "name": "doglaugh2",
+                "type": "png"
+            },
+            {
+                "file": "images/doglaugh1.png",
+                "name": "doglaugh1",
+                "type": "png"
+            },
+            {
+                "file": "images/1duck.png",
+                "name": "duck1",
+                "type": "png"
+            },
+            {
+                "file": "images/2ducks_blank.png",
+                "name": "dog_blank",
+                "type": "png"
+            },
+            {
+                "file": "images/2ducks.png",
+                "name": "duck2",
+                "type": "png"
+            },
+            {
+                "file": "images/duckbg.png",
+                "name": "duckbg",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Duck Hunt",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "0ad2eac4-f617-4c4f-bf6c-1d3bdc3506c2",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}

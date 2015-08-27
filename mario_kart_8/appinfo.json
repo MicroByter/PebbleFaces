@@ -1,0 +1,43 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "MicroByter Studios",
+    "longName": "Poke Gold",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/KGHAPPY.ttf",
+                "name": "poke_42",
+                "type": "font"
+            },
+            {
+                "file": "fonts/KGHAPPY.ttf",
+                "name": "poke_24",
+                "type": "font"
+            },
+            {
+                "file": "fonts/KGHAPPY.ttf",
+                "name": "poke_12",
+                "type": "font"
+            },
+            {
+                "file": "images/kart8black2.png",
+                "name": "image_black",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Poke Gold",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "21d4549a-dff8-4d87-843a-fc5fa803baef",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}

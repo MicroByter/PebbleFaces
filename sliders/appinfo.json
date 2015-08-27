@@ -1,0 +1,80 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "MicroByter Studios",
+    "longName": "Sliders",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/battempty.png",
+                "name": "battempty",
+                "type": "png"
+            },
+            {
+                "file": "images/batt100.png",
+                "name": "batt100",
+                "type": "png"
+            },
+            {
+                "file": "images/batt80.png",
+                "name": "batt80",
+                "type": "png"
+            },
+            {
+                "file": "images/batt60.png",
+                "name": "batt60",
+                "type": "png"
+            },
+            {
+                "file": "images/batt40.png",
+                "name": "batt40",
+                "type": "png"
+            },
+            {
+                "file": "images/batt20.png",
+                "name": "batt20",
+                "type": "png"
+            },
+            {
+                "file": "images/batt00.png",
+                "name": "batt00",
+                "type": "png"
+            },
+            {
+                "file": "images/slider.png",
+                "menuIcon": true,
+                "name": "slider",
+                "type": "png"
+            },
+            {
+                "file": "images/slidebar_blend.png",
+                "name": "slidebar_bg",
+                "type": "png"
+            },
+            {
+                "file": "images/topbg.png",
+                "name": "topbg",
+                "type": "png"
+            },
+            {
+                "file": "images/test.png",
+                "name": "bg_frame",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Sliders",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "05e7487c-28d1-4775-85d4-8b5da9612e4a",
+    "versionLabel": "1.2",
+    "watchapp": {
+        "watchface": true
+    }
+}

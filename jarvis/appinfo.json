@@ -1,0 +1,123 @@
+{
+    "appKeys": {
+        "WEATHER_DESCRIPTION": 1,
+        "WEATHER_TEMPERATURE_KEY": 0,
+        "background": 3
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "MicroByter Studios",
+    "longName": "Jarvis",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/jarvis5_bw.png",
+                "name": "bg_image",
+                "type": "png"
+            },
+            {
+                "file": "images/batt100.png",
+                "name": "batt100",
+                "type": "png"
+            },
+            {
+                "file": "images/batt90.png",
+                "name": "batt90",
+                "type": "png"
+            },
+            {
+                "file": "images/batt80.png",
+                "name": "batt80",
+                "type": "png"
+            },
+            {
+                "file": "images/batt70.png",
+                "name": "batt70",
+                "type": "png"
+            },
+            {
+                "file": "images/batt60.png",
+                "name": "batt60",
+                "type": "png"
+            },
+            {
+                "file": "images/batt50.png",
+                "name": "batt50",
+                "type": "png"
+            },
+            {
+                "file": "images/batt40.png",
+                "name": "batt40",
+                "type": "png"
+            },
+            {
+                "file": "images/batt30.png",
+                "name": "batt30",
+                "type": "png"
+            },
+            {
+                "file": "images/batt20.png",
+                "name": "batt20",
+                "type": "png"
+            },
+            {
+                "file": "images/batt10.png",
+                "name": "batt10",
+                "type": "png"
+            },
+            {
+                "file": "images/batt00_alt.png",
+                "name": "batt00",
+                "type": "png"
+            },
+            {
+                "file": "fonts/venus rising rg.ttf",
+                "name": "jarvis_09",
+                "type": "font"
+            },
+            {
+                "file": "fonts/venus rising rg.ttf",
+                "name": "jarvis_08",
+                "type": "font"
+            },
+            {
+                "file": "fonts/venus rising rg.ttf",
+                "name": "jarvis_12",
+                "type": "font"
+            },
+            {
+                "file": "fonts/venus rising rg.ttf",
+                "name": "jarvis_10",
+                "type": "font"
+            },
+            {
+                "file": "fonts/venus rising rg.ttf",
+                "name": "jarvis_24",
+                "type": "font"
+            },
+            {
+                "file": "fonts/venus rising rg.ttf",
+                "name": "jarvis_28",
+                "type": "font"
+            },
+            {
+                "file": "fonts/venus rising rg.ttf",
+                "name": "jarvis_06",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Jarvis",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "3952b69a-0da7-4c4e-a6d0-ba96a4fdfabf",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}

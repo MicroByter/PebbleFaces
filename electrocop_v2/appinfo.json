@@ -1,0 +1,85 @@
+{
+    "appKeys": {
+        "WEATHER_CITY_KEY": 2,
+        "WEATHER_ICON_KEY": 0,
+        "WEATHER_TEMPERATURE_KEY": 1,
+        "WEATHER_TEMP_MAX": 4,
+        "WEATHER_TEMP_MIN": 3
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "MicroByter Studios",
+    "longName": "Electrocop",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/lcd_bgbw.png",
+                "name": "bg_image",
+                "type": "png"
+            },
+            {
+                "file": "images/sun_bw.png",
+                "name": "IMAGE_SUN",
+                "type": "png"
+            },
+            {
+                "file": "images/snow_bg.png",
+                "name": "IMAGE_SNOW",
+                "type": "png"
+            },
+            {
+                "file": "images/rain_bg.png",
+                "name": "IMAGE_RAIN",
+                "type": "png"
+            },
+            {
+                "file": "images/cloud_bw.png",
+                "name": "IMAGE_CLOUD",
+                "type": "png"
+            },
+            {
+                "file": "fonts/digital-counter-7.regular.ttf",
+                "name": "lcd_18",
+                "type": "font"
+            },
+            {
+                "file": "fonts/digital-counter-7.regular.ttf",
+                "name": "lcd_24",
+                "type": "font"
+            },
+            {
+                "file": "fonts/digital-counter-7.regular.ttf",
+                "name": "lcd_60",
+                "type": "font"
+            },
+            {
+                "file": "fonts/digital-counter-7.regular.ttf",
+                "name": "lcd_48",
+                "type": "font"
+            },
+            {
+                "file": "fonts/digital-counter-7.regular.ttf",
+                "name": "lcd_36",
+                "type": "font"
+            },
+            {
+                "file": "fonts/digital-counter-7.regular.ttf",
+                "name": "lcd_12",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Electrocop",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "2d2cf895-5001-4be4-9804-204f523a6c1c",
+    "versionLabel": "1.1",
+    "watchapp": {
+        "watchface": true
+    }
+}

@@ -1,0 +1,154 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "MicroByter Studios",
+    "longName": "Miyamoto",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/SuperMario256.ttf",
+                "name": "mario_16",
+                "type": "font"
+            },
+            {
+                "file": "fonts/SuperMario256.ttf",
+                "name": "mario_36",
+                "type": "font"
+            },
+            {
+                "file": "images/24bw.png",
+                "name": "24",
+                "type": "png"
+            },
+            {
+                "file": "images/23bw.png",
+                "name": "23",
+                "type": "png"
+            },
+            {
+                "file": "images/22bw.png",
+                "name": "22",
+                "type": "png"
+            },
+            {
+                "file": "images/21bw.png",
+                "name": "21",
+                "type": "png"
+            },
+            {
+                "file": "images/20bw.png",
+                "name": "20",
+                "type": "png"
+            },
+            {
+                "file": "images/19bw.png",
+                "name": "19",
+                "type": "png"
+            },
+            {
+                "file": "images/18bw.png",
+                "name": "18",
+                "type": "png"
+            },
+            {
+                "file": "images/17bw.png",
+                "name": "17",
+                "type": "png"
+            },
+            {
+                "file": "images/16bw.png",
+                "name": "16",
+                "type": "png"
+            },
+            {
+                "file": "images/15bw.png",
+                "name": "15",
+                "type": "png"
+            },
+            {
+                "file": "images/14bw.png",
+                "name": "14",
+                "type": "png"
+            },
+            {
+                "file": "images/13bw.png",
+                "name": "13",
+                "type": "png"
+            },
+            {
+                "file": "images/12bw.png",
+                "name": "12",
+                "type": "png"
+            },
+            {
+                "file": "images/11bw.png",
+                "name": "11",
+                "type": "png"
+            },
+            {
+                "file": "images/10bw.png",
+                "name": "10",
+                "type": "png"
+            },
+            {
+                "file": "images/09bw.png",
+                "name": "09",
+                "type": "png"
+            },
+            {
+                "file": "images/08bw.png",
+                "name": "08",
+                "type": "png"
+            },
+            {
+                "file": "images/07bw.png",
+                "name": "07",
+                "type": "png"
+            },
+            {
+                "file": "images/06bw.png",
+                "name": "06",
+                "type": "png"
+            },
+            {
+                "file": "images/05bw.png",
+                "name": "05",
+                "type": "png"
+            },
+            {
+                "file": "images/04bw.png",
+                "name": "04",
+                "type": "png"
+            },
+            {
+                "file": "images/03bw.png",
+                "name": "03",
+                "type": "png"
+            },
+            {
+                "file": "images/02bw.png",
+                "name": "02",
+                "type": "png"
+            },
+            {
+                "file": "images/01bw.png",
+                "name": "01",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Miyamoto",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "26f2889a-577c-42ab-8862-18806f537bbb",
+    "versionLabel": "1.2",
+    "watchapp": {
+        "watchface": true
+    }
+}

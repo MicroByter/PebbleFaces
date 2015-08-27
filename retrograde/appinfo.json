@@ -1,0 +1,29 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "MicroByter Studios",
+    "longName": "Retrograde",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/retrograde5.png",
+                "name": "bg_image",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Retrograde",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "490d4b46-b717-4041-869c-d122351f12a2",
+    "versionLabel": "1.1",
+    "watchapp": {
+        "watchface": true
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "MicroByter Studios",
+    "longName": "iOS Blues",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/ios_blues_bw.png",
+                "name": "ios_bg",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "iOS Blues",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "37fede9f-bb5c-4ef4-a0df-c75332d4eb30",
+    "versionLabel": "1.1",
+    "watchapp": {
+        "watchface": true
+    }
+}

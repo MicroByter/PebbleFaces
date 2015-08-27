@@ -1,0 +1,113 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "MicroByter Studios",
+    "longName": "Poke Silver",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/Pokemon GB.ttf",
+                "name": "poke_32",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Pokemon GB.ttf",
+                "name": "poke_12",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Pokemon GB.ttf",
+                "name": "poke_24",
+                "type": "font"
+            },
+            {
+                "file": "images/15.png",
+                "name": "h15",
+                "type": "png"
+            },
+            {
+                "file": "images/14.png",
+                "name": "h14",
+                "type": "png"
+            },
+            {
+                "file": "images/13.png",
+                "name": "h13",
+                "type": "png"
+            },
+            {
+                "file": "images/12.png",
+                "name": "h12",
+                "type": "png"
+            },
+            {
+                "file": "images/11.png",
+                "name": "h11",
+                "type": "png"
+            },
+            {
+                "file": "images/10.png",
+                "name": "h10",
+                "type": "png"
+            },
+            {
+                "file": "images/09.png",
+                "name": "h09",
+                "type": "png"
+            },
+            {
+                "file": "images/08.png",
+                "name": "h08",
+                "type": "png"
+            },
+            {
+                "file": "images/07.png",
+                "name": "h07",
+                "type": "png"
+            },
+            {
+                "file": "images/06.png",
+                "name": "h06",
+                "type": "png"
+            },
+            {
+                "file": "images/05.png",
+                "name": "h05",
+                "type": "png"
+            },
+            {
+                "file": "images/04.png",
+                "name": "h04",
+                "type": "png"
+            },
+            {
+                "file": "images/03.png",
+                "name": "h03",
+                "type": "png"
+            },
+            {
+                "file": "images/02.png",
+                "name": "h02",
+                "type": "png"
+            },
+            {
+                "file": "images/01.png",
+                "name": "h01",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Poke Silver",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "21d4549a-dff8-4d87-843a-fc5fa803baed",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}

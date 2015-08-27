@@ -1,0 +1,53 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "MicroByter Studios",
+    "longName": "Hyper Light Drifter",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/off.ttf",
+                "name": "off_24",
+                "type": "font"
+            },
+            {
+                "file": "fonts/off.ttf",
+                "name": "off_48",
+                "type": "font"
+            },
+            {
+                "file": "images/3.png",
+                "name": "3",
+                "type": "png"
+            },
+            {
+                "file": "images/2.png",
+                "name": "2",
+                "type": "png"
+            },
+            {
+                "file": "images/1.png",
+                "name": "1",
+                "type": "png"
+            },
+            {
+                "file": "images/0.png",
+                "name": "0",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "HLD",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "62bd0c99-1e1c-4190-9c32-67ea02fff305",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}

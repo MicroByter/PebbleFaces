@@ -1,0 +1,129 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "MicroByter Studios",
+    "longName": "Trisms",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/9_r.png",
+                "name": "9red",
+                "type": "png"
+            },
+            {
+                "file": "images/8_r.png",
+                "name": "8red",
+                "type": "png"
+            },
+            {
+                "file": "images/7_r.png",
+                "name": "7red",
+                "type": "png"
+            },
+            {
+                "file": "images/6_r.png",
+                "name": "6red",
+                "type": "png"
+            },
+            {
+                "file": "images/5_r.png",
+                "name": "5red",
+                "type": "png"
+            },
+            {
+                "file": "images/4_r.png",
+                "name": "4red",
+                "type": "png"
+            },
+            {
+                "file": "images/3_r.png",
+                "name": "3red",
+                "type": "png"
+            },
+            {
+                "file": "images/2_r.png",
+                "name": "2red",
+                "type": "png"
+            },
+            {
+                "file": "images/1_r.png",
+                "name": "1red",
+                "type": "png"
+            },
+            {
+                "file": "images/0_r.png",
+                "name": "0red",
+                "type": "png"
+            },
+            {
+                "file": "images/9.png",
+                "name": "9",
+                "type": "png"
+            },
+            {
+                "file": "images/8.png",
+                "name": "8",
+                "type": "png"
+            },
+            {
+                "file": "images/7.png",
+                "name": "7",
+                "type": "png"
+            },
+            {
+                "file": "images/6.png",
+                "name": "6",
+                "type": "png"
+            },
+            {
+                "file": "images/5.png",
+                "name": "5",
+                "type": "png"
+            },
+            {
+                "file": "images/4.png",
+                "name": "4",
+                "type": "png"
+            },
+            {
+                "file": "images/3.png",
+                "name": "3",
+                "type": "png"
+            },
+            {
+                "file": "images/2.png",
+                "name": "2",
+                "type": "png"
+            },
+            {
+                "file": "images/1.png",
+                "name": "1",
+                "type": "png"
+            },
+            {
+                "file": "images/0.png",
+                "name": "0",
+                "type": "png"
+            },
+            {
+                "file": "images/base_bg2.png",
+                "name": "base_bg",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Trisms",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "2b760a75-0f65-4c30-8620-26ada426e7b8",
+    "versionLabel": "1.1",
+    "watchapp": {
+        "watchface": true
+    }
+}

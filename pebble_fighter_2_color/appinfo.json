@@ -1,0 +1,199 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "MicroByter Studios",
+    "longName": "Pebble Fighter 2",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/action_11a.png",
+                "name": "action11a",
+                "type": "png"
+            },
+            {
+                "file": "images/action_10a.png",
+                "name": "action10a",
+                "type": "png"
+            },
+            {
+                "file": "images/action_9a.png",
+                "name": "action9a",
+                "type": "png"
+            },
+            {
+                "file": "images/action_8a.png",
+                "name": "action8a",
+                "type": "png"
+            },
+            {
+                "file": "images/action_7a.png",
+                "name": "action7a",
+                "type": "png"
+            },
+            {
+                "file": "images/action_6a.png",
+                "name": "action6a",
+                "type": "png"
+            },
+            {
+                "file": "images/action_5a.png",
+                "name": "action5a",
+                "type": "png"
+            },
+            {
+                "file": "images/action_4a.png",
+                "name": "action4a",
+                "type": "png"
+            },
+            {
+                "file": "images/action_3a.png",
+                "name": "action3a",
+                "type": "png"
+            },
+            {
+                "file": "images/health_bar.png",
+                "name": "health_bar",
+                "type": "png"
+            },
+            {
+                "file": "images/clock_back.png",
+                "name": "clock_back",
+                "type": "png"
+            },
+            {
+                "file": "images/action11.png",
+                "name": "action11",
+                "type": "png"
+            },
+            {
+                "file": "images/action10.png",
+                "name": "action10",
+                "type": "png"
+            },
+            {
+                "file": "images/action9.png",
+                "name": "action9",
+                "type": "png"
+            },
+            {
+                "file": "images/action8.png",
+                "name": "action8",
+                "type": "png"
+            },
+            {
+                "file": "images/action7.png",
+                "name": "action7",
+                "type": "png"
+            },
+            {
+                "file": "images/action6.png",
+                "name": "action6",
+                "type": "png"
+            },
+            {
+                "file": "images/action5.png",
+                "name": "action5",
+                "type": "png"
+            },
+            {
+                "file": "images/action4.png",
+                "name": "action4",
+                "type": "png"
+            },
+            {
+                "file": "images/action3.png",
+                "name": "action3",
+                "type": "png"
+            },
+            {
+                "file": "images/action2.png",
+                "name": "action2",
+                "type": "png"
+            },
+            {
+                "file": "images/action1.png",
+                "name": "action1",
+                "type": "png"
+            },
+            {
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_12",
+                "type": "font"
+            },
+            {
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_48",
+                "type": "font"
+            },
+            {
+                "file": "images/0.png",
+                "name": "batt00",
+                "type": "png"
+            },
+            {
+                "file": "images/10.png",
+                "name": "batt10",
+                "type": "png"
+            },
+            {
+                "file": "images/20.png",
+                "name": "batt20",
+                "type": "png"
+            },
+            {
+                "file": "images/30.png",
+                "name": "batt30",
+                "type": "png"
+            },
+            {
+                "file": "images/40.png",
+                "name": "batt40",
+                "type": "png"
+            },
+            {
+                "file": "images/50.png",
+                "name": "batt50",
+                "type": "png"
+            },
+            {
+                "file": "images/60.png",
+                "name": "batt60",
+                "type": "png"
+            },
+            {
+                "file": "images/70.png",
+                "name": "batt70",
+                "type": "png"
+            },
+            {
+                "file": "images/80.png",
+                "name": "batt80",
+                "type": "png"
+            },
+            {
+                "file": "images/90.png",
+                "name": "batt90",
+                "type": "png"
+            },
+            {
+                "file": "images/100.png",
+                "name": "batt100",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Pebble Fighter 2",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "3f20991e-5310-4385-a19a-b4fb09e0f3aa",
+    "versionLabel": "1.4",
+    "watchapp": {
+        "watchface": true
+    }
+}

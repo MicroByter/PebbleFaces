@@ -1,0 +1,49 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "MicroByter Studios",
+    "longName": "Fox McCloud",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/Face_roundbw.png",
+                "name": "bg_image",
+                "type": "png"
+            },
+            {
+                "file": "fonts/mermaid.ttf",
+                "name": "mermaid_08",
+                "type": "font"
+            },
+            {
+                "file": "fonts/mermaid.ttf",
+                "name": "mermaid_10",
+                "type": "font"
+            },
+            {
+                "file": "fonts/mermaid.ttf",
+                "name": "mermaid_14",
+                "type": "font"
+            },
+            {
+                "file": "fonts/mermaid.ttf",
+                "name": "mermaid_18",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "McCloud",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "068d702d-ea69-42ea-bdba-a69dbbe23983",
+    "versionLabel": "1.1",
+    "watchapp": {
+        "watchface": true
+    }
+}
